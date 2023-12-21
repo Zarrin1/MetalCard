@@ -1,0 +1,46 @@
+.container{
+    margin-top: 50px;
+    margin-left: 90px;
+}
+
+.firstname{
+    font-size: 20px;
+    font-weight: 400;
+}
+
+input{
+    margin-top: 5px;
+    padding: 5px;
+    font-size: 18px;
+}
+
+.pictures{
+    padding: 20px;
+    margin-top: 20px;
+    border: 2px solid black;
+    background: #f2f2f2;
+    width: 380px;
+}
+
+.carts{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cart{
+    background: none;
+    width: 110px;
+    height: 70px;
+    border: 1px solid black;
+}
+
+.middle{
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.middles{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
