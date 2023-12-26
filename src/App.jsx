@@ -10,10 +10,7 @@ function App() {
   return (
     <>
      <Header />
-     <div className='main'>
      <Left />
-     <Right />
-     </div>
     
     </>
   )
